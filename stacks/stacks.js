@@ -6,7 +6,7 @@ class Node {
     this.next = next;
   }
 }
-
+//FILO
 class Stack {
   constructor() {
     this.top = null;
